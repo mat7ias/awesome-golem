@@ -10,7 +10,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
   - [Explorers](#explorers)
 - [Developer Resources](#developer-resources)
   - [Tools](#-tools)
-  - [Apps](#-apps)
+  - [Apps](#EF%B8%8F-apps)
   - [Testnet NGNT and Ether](#-testnet-ngnt-and-ether)
   - [Bounties and Hackathons](#-bounties-and-hackathons)
 - [Running a Golem Node](#running-a-golem-node)
