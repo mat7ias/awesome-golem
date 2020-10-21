@@ -31,7 +31,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [Twitter](https://twitter.com/golemproject)
 - [Blog](http://blog.golemproject.net/)
 
-## 🖥️ Apps
+# 🖥️ Apps
 
 > Demos, hackathon+bounty app submissions and projects building on/with Golem.
 
@@ -40,17 +40,17 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [golemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Use the Golem Network to generate graph frames, then combine them into an animation.
 - [golemized-strong-gravitational-lense](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - a simple distributed computing hack that tries to simulate some physical phenomena called gravitional lensing and is based on the work of Prof. Adam Bolton.
 
-## Developer Resources
+# Developer Resources
 
-### Docs and releases
+## Docs and releases
 
 - [Yagna handbook](https://handbook.golem.network/)
 - [Releases List](https://github.com/golemfactory/yagna/releases)
 
-### Running a node on New Golem
+## Running a node on New Golem
 > New Golem is currently running on on Rinkeby testnet.
 
-#### Requestor:
+### Requestor:
 - Get started quick and make your first request with our [flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development). Make sure you meet the requirements then:
   1. Quick install `curl -sSf https://join.golem.network/as-requestor | bash -`
   2. Eun the daemon `yagna service run`
@@ -71,20 +71,20 @@ That's it! You're now able to request tasks on the Golem network!
    13. `cd examples/blender`
    14. `python3 blender.py --subnet-tag devnet-alpha.2`
 
-#### Provider:
+### Provider:
 Follow the [Provider section](https://handbook.golem.network/provider-tutorials/provider-tutorial) of our handbook, here are the quick instructions if you meet the prerequisites (Ubuntu 18.04 and 20.04 with Intel CPU): 
 
 1. Installation: `curl -sSf https://join.golem.network/as-provider | bash -`
 2. Start the Golem Sneak Peak provider release: `golemsp run`
 3. DONE! Your node should now be running, Check your node's status with `golemsp status`
 
-### 👷 Tools
+## 👷 Tools
 
 - [golem-ortools](https://github.com/Doc-Saintly/golem-ortools) - uses the or-tools Constraint Programming library to solve problems on the golem network.
 - [golem-jtr](https://github.com/hhio618/golem-jtr) - run John The Ripper on Golem Nodes to recover a password
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - A golemized docker image for compiling the most loved vim editor
 
-### 👷 Bounties and Hackathons
+## 👷 Bounties and Hackathons
 
 > Details on Golem bounties and their submissions.
 
@@ -108,24 +108,24 @@ Run John The Ripper On Multiple Golem Nodes To Crack A Password - [Gitcoin link]
 Create A Video Transcoding Web Application Using Golem As A Backend - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/705/100023966):
  1. https://github.com/Doc-Saintly/golem-video
 
-### 💸 Testnet NGNT and Ether
+## 💸 Testnet NGNT and Ether
 
 If for any reason the faucet was unsuccessful, grab some testnet Ether via the [Rinkeby faucet](https://faucet.rinkeby.io/), send it to your node address (can be found with `yagna app-key list`, starts with "0x...") and run the command `yagna payment init -r` again.
 
 If you have the MetaMask browser extension installed you can also try the [MetaMask faucets](https://faucet.metamask.io). Change to Rinkeby test network by clicking at the top on 'Main Ethereum Network' and select Rinkeby.
 
-## Learning Resources
+# Learning Resources
 
 - [Unraveling Golem’s The Next Milestone](https://blog.golemproject.net/next-milestone)
 - [Unraveling Golem’s The Next Milestone, Part II](https://blog.golemproject.net/next-milestone-part-ii/)
 - [Unraveling Golem’s The Next Milestone, Part III](https://blog.golemproject.net/next-milestone-part-iii/)
 
-### 🔖 Interesting Links
+## 🔖 Interesting Links
 
 - [Golem Legacy FAQ](https://docs.golem.network/#/About/FAQ)
 - [Golem Telegram resources bot (contains information only)](https://t.me/GolemInfoBot)
 
-### Videos and presentations
+## Videos and presentations
 
 - [Golem Loves Layer 2 presentations and panel](https://youtu.be/B8Qu-Nofbaw) - 
 - [New Golem - Alpha 2 Release - Quick intro](https://youtu.be/TenOjOql5vA) - Kuba
@@ -134,7 +134,7 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 - [ReadyLayerOne - A Golem (R)evolution](https://youtu.be/s9WdFqLyLFo) - Piotr Janiuk
 
 
-### 📝 GitHub Digest
+## 📝 GitHub Digest
 
 - [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/)
 - [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/)
