@@ -52,8 +52,13 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 
 > Demos, hackathon+bounty submissions and projects building on/with Golem.
 
+- [golem.network video transcoder](https://golem-video.jarvispowered.com:5000) - This is sample app that uses golem.network to transcode videos. Please select your transcoding profile and then upload your videos.
 - [golem-ortools](https://github.com/Doc-Saintly/golem-ortools) - uses the or-tools Constraint Programming library to solve problems on the golem network.
+- Process And Visualize Interesting Computations In Matplotlib
 - [golem-john-jumbo](https://github.com/Doc-Saintly/golem-john-jumbo) - a sample program that uses golem.network to run John the Ripper -Jumbo to break an md5 password hash.
+- [golem-jtr](https://github.com/hhio618/golem-jtr) - run John The Ripper on Golem Nodes to recover a password
+- [golemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Use the Golem Network to generate graph frames, then combine them into an animation.
+- [gvm-vim](https://github.com/canokaue/gvm-vim) - A golemized docker image for compiling the most loved vim editor
 
 ### 💸 Testnet NGNT and Ether
 
@@ -66,10 +71,23 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 > Details on Golem bounties.
 
 - [Compile VIM On Single Golem Node](https://gitcoin.co/issue/golemfactory/yagna/702/100023963)
-- [Process And Visualize Interesting Computations In Matplotlib On Multiple Golem Nodes](https://gitcoin.co/issue/golemfactory/yagna/703/100023964)
-- [Run John The Ripper On Multiple Golem Nodes To Crack A Password](https://gitcoin.co/issue/golemfactory/yagna/704/100023965)
-- [Create A Video Transcoding Web Application Using Golem As A Backend](https://gitcoin.co/issue/golemfactory/yagna/705/100023966)
+ 1. https://github.com/canokaue/gvm-vim
+ 2. https://github.com/rezahsnz/golemized-vim
+ 3. https://github.com/iRhonin/golem-vim
+ 4. https://github.com/thomgabriel/golem-compile-VIM
+ 5. https://github.com/molecula451/gvim
 
+- [Process And Visualize Interesting Computations In Matplotlib On Multiple Golem Nodes](https://gitcoin.co/issue/golemfactory/yagna/703/100023964)
+ 1. https://github.com/smiley1983/golemGraphWavePair
+
+- [Run John The Ripper On Multiple Golem Nodes To Crack A Password](https://gitcoin.co/issue/golemfactory/yagna/704/100023965)
+ 1. https://github.com/Doc-Saintly/golem-john-jumbo
+ 2. https://github.com/rezahsnz/golemized-john
+ 3. https://github.com/iRhonin/golem-john
+ 4. https://github.com/hhio618/golem-jtr
+
+- [Create A Video Transcoding Web Application Using Golem As A Backend](https://gitcoin.co/issue/golemfactory/yagna/705/100023966):
+ 1. https://golem-video.jarvispowered.com:5000
 
 ## Running a node on New Golem
 
@@ -77,31 +95,30 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 
 #### Requestor:
 - Get started quick and make your first request with our [flash tutorial](https://handbook.golem.network/requestor-tutorials/flash-tutorial-of-requestor-development). Make sure you meet the requirements then:
-  - quick install `curl -sSf https://join.golem.network/as-requestor | bash -`
-  - run the daemon `yagna service run`
-  - (separate shell/terminal) generate and save your app key `yagna app-key create requestor`
-  - enable the daemon as a requestor `yagna payment init -r`
+  1. Quick install `curl -sSf https://join.golem.network/as-requestor | bash -`
+  2. Eun the daemon `yagna service run`
+  3. (Separate shell/terminal) generate and save your app key `yagna app-key create requestor`
+  4. enable the daemon as a requestor `yagna payment init -r`
 That's it! You're now able to request tasks on the Golem network!
 
 - Running an example:
   - Get your environment setup, install dependencies, download examples and run your first task on the network
-   - `python3 -m venv ~/.envs/yagna-python-tutorial`
-   - `source ~/.envs/yagna-python-tutorial/bin/activate`
-   - `pip3 install -U pip`
-   - `pip3 install certifi yapapi`
-   - `git clone https://github.com/golemfactory/yapapi.git`
-   - `cd yapapi`
-   - `git checkout b0.3`
-   - `export YAGNA_APPKEY=insert-your-32-char-app-key-here` (remember your saved app-key?)
-   - `cd examples/blender`
-   - `python3 blender.py --subnet-tag devnet-alpha.2`
+   5. `python3 -m venv ~/.envs/yagna-python-tutorial`
+   6. `source ~/.envs/yagna-python-tutorial/bin/activate`
+   7. `pip3 install -U pip`
+   8. `pip3 install certifi yapapi`
+   9. `git clone https://github.com/golemfactory/yapapi.git`
+   10. `cd yapapi`
+   11. `git checkout b0.3`
+   12. `export YAGNA_APPKEY=insert-your-32-char-app-key-here` (remember your saved app-key?)
+   13. `cd examples/blender`
+   14. `python3 blender.py --subnet-tag devnet-alpha.2`
 
 #### Provider:
-- Regular installation: `curl -sSf https://join.golem.network/as-provider | bash -`
-OR
-- Dev installation: `curl -sSf https://join.golem.network/dev/as-provider | bash -`
+https://handbook.golem.network/provider-tutorials/provider-tutorial
 
-Start the Golem Sneak Peak provider release with `golemsp run`
+1. Installation: `curl -sSf https://join.golem.network/as-provider | bash -`
+2. Start the Golem Sneak Peak provider release: `golemsp run`
 
 ### Mainnet
 
