@@ -87,7 +87,7 @@ Run John The Ripper On Multiple Golem Nodes To Crack A Password - [Gitcoin link]
  4. https://github.com/hhio618/golem-jtr
 
 Create A Video Transcoding Web Application Using Golem As A Backend - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/705/100023966):
- 1. https://golem-video.jarvispowered.com:5000
+ 1. https://github.com/Doc-Saintly/golem-video
 
 ## Running a node on New Golem
 
