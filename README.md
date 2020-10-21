@@ -8,7 +8,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [Golem](#golem)
 - [Apps](#%EF%B8%8F-apps)
 - [Developer Resources](#developer-resources)
-  - [Docs](#docs-and-releases)
+  - [Docs and Releases](#docs-and-releases)
   - [Tools](#-tools)
   - [Bounties and Hackathons](#-bounties-and-hackathons)
   - [Testnet NGNT and Ether](#-testnet-ngnt-and-ether)
@@ -78,7 +78,7 @@ Follow the [Provider section](https://handbook.golem.network/provider-tutorials/
 2. Start the Golem Sneak Peak provider release: `golemsp run`
 3. DONE! Your node should now be running, Check your node's status with `golemsp status`
 
-## 👷 Tools
+### 👷 Tools
 
 - [golem-ortools](https://github.com/Doc-Saintly/golem-ortools) - uses the or-tools Constraint Programming library to solve problems on the golem network.
 - [golem-jtr](https://github.com/hhio618/golem-jtr) - run John The Ripper on Golem Nodes to recover a password
