@@ -70,17 +70,17 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 
 > Details on Golem bounties.
 
-- [Compile VIM On Single Golem Node](https://gitcoin.co/issue/golemfactory/yagna/702/100023963)
+[Compile VIM On Single Golem Node](https://gitcoin.co/issue/golemfactory/yagna/702/100023963)
  1. https://github.com/canokaue/gvm-vim
  2. https://github.com/rezahsnz/golemized-vim
  3. https://github.com/iRhonin/golem-vim
  4. https://github.com/thomgabriel/golem-compile-VIM
  5. https://github.com/molecula451/gvim
 
-- [Process And Visualize Interesting Computations In Matplotlib On Multiple Golem Nodes](https://gitcoin.co/issue/golemfactory/yagna/703/100023964)
+[Process And Visualize Interesting Computations In Matplotlib On Multiple Golem Nodes](https://gitcoin.co/issue/golemfactory/yagna/703/100023964)
  1. https://github.com/smiley1983/golemGraphWavePair
 
-- [Run John The Ripper On Multiple Golem Nodes To Crack A Password](https://gitcoin.co/issue/golemfactory/yagna/704/100023965)
+[Run John The Ripper On Multiple Golem Nodes To Crack A Password](https://gitcoin.co/issue/golemfactory/yagna/704/100023965)
  1. https://github.com/Doc-Saintly/golem-john-jumbo
  2. https://github.com/rezahsnz/golemized-john
  3. https://github.com/iRhonin/golem-john
