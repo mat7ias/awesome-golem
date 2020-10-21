@@ -16,11 +16,10 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
    - [Requestor](#requestor)
    - [Provider](#provider)
 - [Learning Resources](#learning-resources)
-  - [Interesting Links](#-interesting-links)
+  - [Unraveling Golem’s The Next Milestone series](#Unraveling-Golems-The-Next-Milestone-series)
   - [Videos and presentations](#-videos-and-presentations)
   - [GitHub Digest](#-GitHub-Digest)
 - [Community Incentives Program](#community)
-- [Other Resources](#other-resources)
 
 # Golem
 
@@ -42,7 +41,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 
 # Developer Resources
 
-## Docs and releases
+### Docs and releases
 
 - [Yagna handbook](https://handbook.golem.network/)
 - [Releases List](https://github.com/golemfactory/yagna/releases)
@@ -116,16 +115,14 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 
 # Learning Resources
 
+### Unraveling Golem’s The Next Milestone series
+
 - [Unraveling Golem’s The Next Milestone](https://blog.golemproject.net/next-milestone)
 - [Unraveling Golem’s The Next Milestone, Part II](https://blog.golemproject.net/next-milestone-part-ii/)
 - [Unraveling Golem’s The Next Milestone, Part III](https://blog.golemproject.net/next-milestone-part-iii/)
 
-## 🔖 Interesting Links
 
-- [Golem Legacy FAQ](https://docs.golem.network/#/About/FAQ)
-- [Golem Telegram resources bot (contains information only)](https://t.me/GolemInfoBot)
-
-## Videos and presentations
+### Videos and presentations
 
 - [Golem Loves Layer 2 presentations and panel](https://youtu.be/B8Qu-Nofbaw) - 
 - [New Golem - Alpha 2 Release - Quick intro](https://youtu.be/TenOjOql5vA) - Kuba
@@ -134,7 +131,7 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 - [ReadyLayerOne - A Golem (R)evolution](https://youtu.be/s9WdFqLyLFo) - Piotr Janiuk
 
 
-## 📝 GitHub Digest
+### 📝 GitHub Digest
 
 - [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/)
 - [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/)
@@ -148,5 +145,4 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 
 [Golem Community Incentives Program](https://blog.golemproject.net/community-incentives-program/) - Participate in the community and get rewarded for it in GNT!
 
-## Other Resources
 
