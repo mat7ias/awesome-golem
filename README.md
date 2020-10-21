@@ -67,7 +67,7 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 
 ### 👷 Bounties and Hackathons
 
-> Details on Golem bounties.
+> Details on Golem bounties and their submissions.
 
 Compile VIM On Single Golem Node - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/702/100023963)
  1. https://github.com/canokaue/gvm-vim
