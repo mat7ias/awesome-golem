@@ -138,6 +138,7 @@ https://handbook.golem.network/provider-tutorials/provider-tutorial
 
 ### Videos and presentations
 
+- [Golem Loves Layer 2 presentations and panel](https://youtu.be/B8Qu-Nofbaw) - 
 - [New Golem - Alpha 2 Release - Quick intro](https://youtu.be/TenOjOql5vA) - Kuba
 - [New Golem - Alpha II Requestor Primer Tutorial](https://youtu.be/UHL-5QfoWmo) - Mattias
 - [EDCON - Building New Golem: Where We're at and Where We're Heading](https://www.youtube.com/watch?v=FVzn1G9wtUg&feature=youtu.be&t=901) - Kuba
