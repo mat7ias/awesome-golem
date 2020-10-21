@@ -16,9 +16,9 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
    - [Requestor](#requestor)
    - [Provider](#provider)
 - [Learning Resources](#learning-resources)
-  - [Unraveling Golem’s The Next Milestone series](#Unraveling-Golems-The-Next-Milestone-series)
-  - [Videos and presentations](#-videos-and-presentations)
-  - [GitHub Digest](#-GitHub-Digest)
+  - [Unraveling Golem’s The Next Milestone series](#unraveling-golems-the-next-milestone-series)
+  - [Videos and presentations](#videos-and-presentations)
+  - [GitHub Digest](#gitHub-digest)
 - [Community Incentives Program](#community)
 
 # Golem
@@ -113,7 +113,7 @@ If for any reason the faucet was unsuccessful, grab some testnet Ether via the [
 
 If you have the MetaMask browser extension installed you can also try the [MetaMask faucets](https://faucet.metamask.io). Change to Rinkeby test network by clicking at the top on 'Main Ethereum Network' and select Rinkeby.
 
-# Learning Resources
+# 📝 Learning Resources
 
 ### Unraveling Golem’s The Next Milestone series
 
@@ -131,7 +131,7 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 - [ReadyLayerOne - A Golem (R)evolution](https://youtu.be/s9WdFqLyLFo) - Piotr Janiuk
 
 
-### 📝 GitHub Digest
+### GitHub Digest
 
 - [Golem GitHub Digest #1](https://blog.golemproject.net/golem-github-digest-1/)
 - [Golem GitHub Digest #2](https://blog.golemproject.net/golem-github-digest-2/)
