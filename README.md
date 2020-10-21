@@ -47,18 +47,17 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 ### 👷 Tools
 
 - [Hashcat](https://handbook.golem.network/requestor-tutorials/create-your-own-application-on-golem/the-steps-to-do) - hashcat password-recovery example, this tutorial is designed to inspire you to create your own Golem applications, we will explain all the needed details of Golem application implementation.
+- [golem-ortools](https://github.com/Doc-Saintly/golem-ortools) - uses the or-tools Constraint Programming library to solve problems on the golem network.
+- [golem-jtr](https://github.com/hhio618/golem-jtr) - run John The Ripper on Golem Nodes to recover a password
+- [gvm-vim](https://github.com/canokaue/gvm-vim) - A golemized docker image for compiling the most loved vim editor
 
 ### 🖥️ Apps
 
-> Demos, hackathon+bounty submissions and projects building on/with Golem.
+> Demos, hackathon+bounty app submissions and projects building on/with Golem.
 
 - [golem.network video transcoder](https://golem-video.jarvispowered.com:5000) - This is sample app that uses golem.network to transcode videos. Please select your transcoding profile and then upload your videos.
-- [golem-ortools](https://github.com/Doc-Saintly/golem-ortools) - uses the or-tools Constraint Programming library to solve problems on the golem network.
-- Process And Visualize Interesting Computations In Matplotlib
-- [golem-john-jumbo](https://github.com/Doc-Saintly/golem-john-jumbo) - a sample program that uses golem.network to run John the Ripper -Jumbo to break an md5 password hash.
-- [golem-jtr](https://github.com/hhio618/golem-jtr) - run John The Ripper on Golem Nodes to recover a password
 - [golemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Use the Golem Network to generate graph frames, then combine them into an animation.
-- [gvm-vim](https://github.com/canokaue/gvm-vim) - A golemized docker image for compiling the most loved vim editor
+- [golemized-strong-gravitational-lense](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - a simple distributed computing hack that tries to simulate some physical phenomena called gravitional lensing and is based on the work of Prof. Adam Bolton.
 
 ### 💸 Testnet NGNT and Ether
 
@@ -79,6 +78,7 @@ Compile VIM On Single Golem Node - [Gitcoin link](https://gitcoin.co/issue/golem
 
 Process And Visualize Interesting Computations In Matplotlib On Multiple Golem Nodes - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/703/100023964)
  1. https://github.com/smiley1983/golemGraphWavePair
+ 2. https://github.com/rezahsnz/golemized-strong-gravitational-lense
 
 Run John The Ripper On Multiple Golem Nodes To Crack A Password - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/704/100023965)
  1. https://github.com/Doc-Saintly/golem-john-jumbo
