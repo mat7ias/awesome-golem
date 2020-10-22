@@ -40,8 +40,8 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 ## Tools
 
 - [golem-ortools](https://github.com/Doc-Saintly/golem-ortools) - uses the or-tools Constraint Programming library to solve problems on the golem network.
-- [golem-jtr](https://github.com/hhio618/golem-jtr) - run John The Ripper on Golem Nodes to recover a password
-- [gvm-vim](https://github.com/canokaue/gvm-vim) - A golemized docker image for compiling the most loved vim editor
+- [golem-jtr](https://github.com/hhio618/golem-jtr) - run John The Ripper on Golem Nodes to recover a password.
+- [gvm-vim](https://github.com/canokaue/gvm-vim) - A golemized docker image for compiling the most loved vim editor.
 
 ## Bounties and Hackathons
 
