@@ -7,12 +7,12 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 
 - [Golem](#golem)
 - [Apps](#%EF%B8%8F-apps)
-- [Bounties and Hackathons](#bounties-and-hackathons)
+  - [Bounties and Hackathons](#bounties-and-hackathons)
+- [Tools](#tools)
 - [Developer Resources](#-developer-resources)
   - [Docs and Releases](#docs-and-releases)
-  - [Tools](#tools)
-  - [Testnet NGNT and Ether](#testnet-ngnt-and-ether)
   - [Running a node on New Golem](#running-a-node-on-new-golem)
+  - [Testnet NGNT and Ether](#testnet-ngnt-and-ether)
 - [Learning Resources](#learning-resources)
   - [Unraveling Golem’s The Next Milestone series](#unraveling-golems-the-next-milestone-series)
   - [Videos and presentations](#videos-and-presentations)
@@ -36,6 +36,12 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [Hashcat](https://handbook.golem.network/requestor-tutorials/create-your-own-application-on-golem/the-steps-to-do) - hashcat password-recovery example, this tutorial is designed to inspire you to create your own Golem applications, we will explain all the needed details of Golem application implementation.
 - [golemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Use the Golem Network to generate graph frames, then combine them into an animation.
 - [golemized-strong-gravitational-lense](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - a simple distributed computing hack that tries to simulate some physical phenomena called gravitional lensing and is based on the work of Prof. Adam Bolton.
+
+## Tools
+
+- [golem-ortools](https://github.com/Doc-Saintly/golem-ortools) - uses the or-tools Constraint Programming library to solve problems on the golem network.
+- [golem-jtr](https://github.com/hhio618/golem-jtr) - run John The Ripper on Golem Nodes to recover a password
+- [gvm-vim](https://github.com/canokaue/gvm-vim) - A golemized docker image for compiling the most loved vim editor
 
 ## Bounties and Hackathons
 
@@ -98,12 +104,6 @@ Follow the [Provider section](https://handbook.golem.network/provider-tutorials/
 1. Installation: `curl -sSf https://join.golem.network/as-provider | bash -`
 2. Start the Golem Sneak Peak provider release: `golemsp run`
 3. DONE! Your node should now be running, Check your node's status with `golemsp status`
-
-## Tools
-
-- [golem-ortools](https://github.com/Doc-Saintly/golem-ortools) - uses the or-tools Constraint Programming library to solve problems on the golem network.
-- [golem-jtr](https://github.com/hhio618/golem-jtr) - run John The Ripper on Golem Nodes to recover a password
-- [gvm-vim](https://github.com/canokaue/gvm-vim) - A golemized docker image for compiling the most loved vim editor
 
 ## 💸 Testnet NGNT and Ether
 
