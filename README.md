@@ -105,7 +105,7 @@ Follow the [Provider section](https://handbook.golem.network/provider-tutorials/
 2. Start the Golem Sneak Peak provider release: `golemsp run`
 3. DONE! Your node should now be running, Check your node's status with `golemsp status`
 
-## 💸 Testnet NGNT and Ether
+## Testnet NGNT and Ether
 
 If for any reason the faucet was unsuccessful, grab some testnet Ether via the [Rinkeby faucet](https://faucet.rinkeby.io/), send it to your node address (can be found with `yagna app-key list`, starts with "0x...") and run the command `yagna payment init -r` again.
 
