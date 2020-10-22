@@ -26,7 +26,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [Golem Community Chat](https://chat.golem.network/) - Join the community and team open discussion on Discord.
 - [Reddit](https://reddit.com/r/GolemProject) - Golem Network discussion on the Reddit platform.
 - [Twitter](https://twitter.com/golemproject) - The Golem Project Twitter.
-- [Blog](http://blog.golemproject.net/) - The official blog where you can find official announcements, summaries and updates.
+- [Blog](http://blog.golemproject.net/) - The official blog where you can find the most reliable information on announcements, summaries and updates.
 
 # 🖥️ Apps
 
