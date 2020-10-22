@@ -7,8 +7,8 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 
 - [Golem](#golem)
 - [Apps](#%EF%B8%8F-apps)
+  - [Tools](#tools)
   - [Bounties and Hackathons](#bounties-and-hackathons)
-- [Tools](#tools)
 - [Developer Resources](#-developer-resources)
   - [Docs and Releases](#docs-and-releases)
   - [Running a node on New Golem](#running-a-node-on-new-golem)
@@ -21,12 +21,12 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 
 # Golem
 
-- [Website](https://golem.network/)
-- [Github](https://github.com/golemfactory)
-- [Chat](https://chat.golem.network/)
-- [Reddit](https://reddit.com/r/GolemProject)
-- [Twitter](https://twitter.com/golemproject)
-- [Blog](http://blog.golemproject.net/)
+- [Golem.Network Website](https://golem.network/) - The official Golem Network website.
+- [Golem Factory Github](https://github.com/golemfactory) - Where you can find the open source code of all things Golem!
+- [Golem Community Chat](https://chat.golem.network/) - Join the community and team open discussion on Discord.
+- [Reddit](https://reddit.com/r/GolemProject) - Golem Network discussion on the Reddit platform.
+- [Twitter](https://twitter.com/golemproject) - The Golem Project Twitter.
+- [Blog](http://blog.golemproject.net/) - The official blog where you can find official announcements, summaries and updates.
 
 # 🖥️ Apps
 
@@ -99,7 +99,7 @@ That's it! You're now able to request tasks on the Golem network!
    14. `python3 blender.py --subnet-tag devnet-alpha.2`
 
 ### Provider:
-Follow the [Provider section](https://handbook.golem.network/provider-tutorials/provider-tutorial) of our handbook, here are the quick instructions if you meet the prerequisites (Ubuntu 18.04 and 20.04 with Intel CPU): 
+Follow the [Provider section](https://handbook.golem.network/provider-tutorials/provider-tutorial) of our handbook, below are the quick install instructions if you meet the prerequisites (Ubuntu 18.04 and 20.04 with Intel CPU): 
 
 1. Installation: `curl -sSf https://join.golem.network/as-provider | bash -`
 2. Start the Golem Sneak Peak provider release: `golemsp run`
