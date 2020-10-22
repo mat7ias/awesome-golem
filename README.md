@@ -7,14 +7,12 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 
 - [Golem](#golem)
 - [Apps](#%EF%B8%8F-apps)
-- [Developer Resources](#developer-resources)
+- [Developer Resources](#-developer-resources)
   - [Docs and Releases](#docs-and-releases)
-  - [Tools](#-tools)
-  - [Bounties and Hackathons](#-bounties-and-hackathons)
-  - [Testnet NGNT and Ether](#-testnet-ngnt-and-ether)
+  - [Tools](#tools)
+  - [Bounties and Hackathons](#bounties-and-hackathons)
+  - [Testnet NGNT and Ether](#testnet-ngnt-and-ether)
   - [Running a node on New Golem](#running-a-node-on-new-golem)
-   - [Requestor](#requestor)
-   - [Provider](#provider)
 - [Learning Resources](#learning-resources)
   - [Unraveling Golem’s The Next Milestone series](#unraveling-golems-the-next-milestone-series)
   - [Videos and presentations](#videos-and-presentations)
@@ -39,7 +37,7 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [golemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Use the Golem Network to generate graph frames, then combine them into an animation.
 - [golemized-strong-gravitational-lense](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - a simple distributed computing hack that tries to simulate some physical phenomena called gravitional lensing and is based on the work of Prof. Adam Bolton.
 
-# Developer Resources
+# 👷 Developer Resources
 
 ### Docs and releases
 
@@ -77,13 +75,13 @@ Follow the [Provider section](https://handbook.golem.network/provider-tutorials/
 2. Start the Golem Sneak Peak provider release: `golemsp run`
 3. DONE! Your node should now be running, Check your node's status with `golemsp status`
 
-## 👷 Tools
+## Tools
 
 - [golem-ortools](https://github.com/Doc-Saintly/golem-ortools) - uses the or-tools Constraint Programming library to solve problems on the golem network.
 - [golem-jtr](https://github.com/hhio618/golem-jtr) - run John The Ripper on Golem Nodes to recover a password
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - A golemized docker image for compiling the most loved vim editor
 
-## 👷 Bounties and Hackathons
+## Bounties and Hackathons
 
 > Details on Golem bounties and their submissions.
 
