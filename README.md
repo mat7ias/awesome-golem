@@ -7,10 +7,10 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 
 - [Golem](#golem)
 - [Apps](#%EF%B8%8F-apps)
+- [Bounties and Hackathons](#bounties-and-hackathons)
 - [Developer Resources](#-developer-resources)
   - [Docs and Releases](#docs-and-releases)
   - [Tools](#tools)
-  - [Bounties and Hackathons](#bounties-and-hackathons)
   - [Testnet NGNT and Ether](#testnet-ngnt-and-ether)
   - [Running a node on New Golem](#running-a-node-on-new-golem)
 - [Learning Resources](#learning-resources)
@@ -36,6 +36,30 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [Hashcat](https://handbook.golem.network/requestor-tutorials/create-your-own-application-on-golem/the-steps-to-do) - hashcat password-recovery example, this tutorial is designed to inspire you to create your own Golem applications, we will explain all the needed details of Golem application implementation.
 - [golemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Use the Golem Network to generate graph frames, then combine them into an animation.
 - [golemized-strong-gravitational-lense](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - a simple distributed computing hack that tries to simulate some physical phenomena called gravitional lensing and is based on the work of Prof. Adam Bolton.
+
+## Bounties and Hackathons
+
+> Details on Golem bounties and their submissions.
+
+Compile VIM On Single Golem Node - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/702/100023963)
+ 1. https://github.com/canokaue/gvm-vim
+ 2. https://github.com/rezahsnz/golemized-vim
+ 3. https://github.com/iRhonin/golem-vim
+ 4. https://github.com/thomgabriel/golem-compile-VIM
+ 5. https://github.com/molecula451/gvim
+
+Process And Visualize Interesting Computations In Matplotlib On Multiple Golem Nodes - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/703/100023964)
+ 1. https://github.com/smiley1983/golemGraphWavePair
+ 2. https://github.com/rezahsnz/golemized-strong-gravitational-lense
+
+Run John The Ripper On Multiple Golem Nodes To Crack A Password - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/704/100023965)
+ 1. https://github.com/Doc-Saintly/golem-john-jumbo
+ 2. https://github.com/rezahsnz/golemized-john
+ 3. https://github.com/iRhonin/golem-john
+ 4. https://github.com/hhio618/golem-jtr
+
+Create A Video Transcoding Web Application Using Golem As A Backend - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/705/100023966)
+ 1. https://github.com/Doc-Saintly/golem-video
 
 # 👷 Developer Resources
 
@@ -80,30 +104,6 @@ Follow the [Provider section](https://handbook.golem.network/provider-tutorials/
 - [golem-ortools](https://github.com/Doc-Saintly/golem-ortools) - uses the or-tools Constraint Programming library to solve problems on the golem network.
 - [golem-jtr](https://github.com/hhio618/golem-jtr) - run John The Ripper on Golem Nodes to recover a password
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - A golemized docker image for compiling the most loved vim editor
-
-## Bounties and Hackathons
-
-> Details on Golem bounties and their submissions.
-
-Compile VIM On Single Golem Node - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/702/100023963)
- 1. https://github.com/canokaue/gvm-vim
- 2. https://github.com/rezahsnz/golemized-vim
- 3. https://github.com/iRhonin/golem-vim
- 4. https://github.com/thomgabriel/golem-compile-VIM
- 5. https://github.com/molecula451/gvim
-
-Process And Visualize Interesting Computations In Matplotlib On Multiple Golem Nodes - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/703/100023964)
- 1. https://github.com/smiley1983/golemGraphWavePair
- 2. https://github.com/rezahsnz/golemized-strong-gravitational-lense
-
-Run John The Ripper On Multiple Golem Nodes To Crack A Password - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/704/100023965)
- 1. https://github.com/Doc-Saintly/golem-john-jumbo
- 2. https://github.com/rezahsnz/golemized-john
- 3. https://github.com/iRhonin/golem-john
- 4. https://github.com/hhio618/golem-jtr
-
-Create A Video Transcoding Web Application Using Golem As A Backend - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/705/100023966):
- 1. https://github.com/Doc-Saintly/golem-video
 
 ## 💸 Testnet NGNT and Ether
 
