@@ -101,9 +101,9 @@ That's it! You're now able to request tasks on the Golem network!
 ### Provider:
 Follow the [Provider section](https://handbook.golem.network/provider-tutorials/provider-tutorial) of our handbook, below are the quick install instructions if you meet the prerequisites (Ubuntu 18.04 and 20.04 with Intel CPU): 
 
-1. Installation: `curl -sSf https://join.golem.network/as-provider | bash -`
+1. Installation: `curl -sSf https://join.golem.network/as-provider | bash -` after which you'll see our [start animation](https://user-images.githubusercontent.com/35585644/96857058-d7817900-145e-11eb-9d02-69614d6f8a29.gif).
 2. Start the Golem Sneak Peak provider release: `golemsp run`
-3. DONE! Your node should now be running, Check your node's status with `golemsp status`
+3. DONE! Your node should now be running. Check your node's status with `golemsp status`
 
 ## Testnet NGNT and Ether
 
@@ -122,7 +122,7 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 
 ### Videos and presentations
 
-- [Golem Loves Layer 2 presentations and panel](https://youtu.be/B8Qu-Nofbaw) - 
+- [Golem Loves Layer 2 presentations and panel](https://youtu.be/B8Qu-Nofbaw) - Kuba & Mikolaj (Golem) + Panel: Jay Zhou (Loopring Protocol), Kasima Tharnpipitchai (OMG Network), Alex Gluchowski (MatterLabs), Kelvin Fichter (Optimism), Kuba Kucharski (Golem)
 - [New Golem - Alpha 2 Release - Quick intro](https://youtu.be/TenOjOql5vA) - Kuba
 - [New Golem - Alpha II Requestor Primer Tutorial](https://youtu.be/UHL-5QfoWmo) - Mattias
 - [EDCON - Building New Golem: Where We're at and Where We're Heading](https://www.youtube.com/watch?v=FVzn1G9wtUg&feature=youtu.be&t=901) - Kuba
