@@ -71,8 +71,8 @@ Create A Video Transcoding Web Application Using Golem As A Backend - [Gitcoin l
 
 ### Docs and releases
 
-- [Yagna handbook](https://handbook.golem.network/)
-- [Releases List](https://github.com/golemfactory/yagna/releases)
+- [Yagna handbook](https://handbook.golem.network/) - Handbook for the New Golem implementation, Yanga.
+- [Releases List](https://github.com/golemfactory/yagna/releases) - Github releases of Yagna.
 
 ## Running a node on New Golem
 > New Golem is currently running on on Rinkeby testnet.
