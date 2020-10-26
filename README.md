@@ -59,8 +59,8 @@ Compile VIM On Single Golem Node - [Gitcoin link](https://gitcoin.co/issue/golem
 Process And Visualize Interesting Computations In Matplotlib On Multiple Golem Nodes - [[Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/703/100023964)]
  1. https://github.com/smiley1983/golemGraphWavePair - [[Demo](https://youtu.be/h_MQKBRYTPw)]
  2. https://github.com/rezahsnz/golemized-strong-gravitational-lense - [[Demo](https://youtu.be/IQ0Xz0PEWoY)]
- 3. https://github.com/CoeJoder/golem-parallel-matplotlib - [[Demo](https://youtu.be/hflrBq2OXwA)
- 4. https://github.com/iRhonin/golem-covid - [[Demo](https://www.youtube.com/watch?v=9mgdz6I9xHM])
+ 3. https://github.com/CoeJoder/golem-parallel-matplotlib - [[Demo](https://youtu.be/hflrBq2OXwA)]
+ 4. https://github.com/iRhonin/golem-covid - [[Demo](https://www.youtube.com/watch?v=9mgdz6I9xHM])]
 
 Run John The Ripper On Multiple Golem Nodes To Crack A Password - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/704/100023965)
  1. https://github.com/rezahsnz/golemized-john - [[Demo](https://youtu.be/L1ht9E93I_0)]
