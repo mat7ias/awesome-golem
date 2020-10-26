@@ -36,6 +36,8 @@ Note: this guide and it's contents is specific to New Golem and it's current imp
 - [Hashcat](https://handbook.golem.network/requestor-tutorials/create-your-own-application-on-golem/the-steps-to-do) - hashcat password-recovery example, this tutorial is designed to inspire you to create your own Golem applications, we will explain all the needed details of Golem application implementation.
 - [golemGraphWavePair](https://github.com/smiley1983/golemGraphWavePair) - Use the Golem Network to generate graph frames, then combine them into an animation.
 - [golemized-strong-gravitational-lense](https://github.com/rezahsnz/golemized-strong-gravitational-lense) - a simple distributed computing hack that tries to simulate some physical phenomena called gravitional lensing and is based on the work of Prof. Adam Bolton.
+- [golem-parallel-matplotlib](https://github.com/CoeJoder/golem-parallel-matplotlib) - various statistical analyses are performed on circadian rhythm measurements in human test subjects.
+- [golem-covid](https://github.com/iRhonin/golem-covid) - This program get a parameter from data/owid-covid-data.csv file (like new_cases_per_million) and plot every day data on the world map. After all images generated (in outputs), it will gather them and create a gif ([example](https://github.com/iRhonin/golem-covid/raw/main/covid.gif?raw=true)).
 
 ## Tools
 
@@ -57,6 +59,8 @@ Compile VIM On Single Golem Node - [Gitcoin link](https://gitcoin.co/issue/golem
 Process And Visualize Interesting Computations In Matplotlib On Multiple Golem Nodes - [[Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/703/100023964)]
  1. https://github.com/smiley1983/golemGraphWavePair - [[Demo](https://youtu.be/h_MQKBRYTPw)]
  2. https://github.com/rezahsnz/golemized-strong-gravitational-lense - [[Demo](https://youtu.be/IQ0Xz0PEWoY)]
+ 3. https://github.com/CoeJoder/golem-parallel-matplotlib - [[Demo](https://youtu.be/hflrBq2OXwA)
+ 4. https://github.com/iRhonin/golem-covid - [[Demo](https://www.youtube.com/watch?v=9mgdz6I9xHM])
 
 Run John The Ripper On Multiple Golem Nodes To Crack A Password - [Gitcoin link](https://gitcoin.co/issue/golemfactory/yagna/704/100023965)
  1. https://github.com/rezahsnz/golemized-john - [[Demo](https://youtu.be/L1ht9E93I_0)]
