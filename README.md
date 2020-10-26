@@ -145,4 +145,5 @@ If you have the MetaMask browser extension installed you can also try the [MetaM
 
 ## Community
 
-[Golem Community Incentives Program](https://blog.golemproject.net/community-incentives-program/) - Participate in the community and get rewarded for it in GNT!
+- [Golem Community Incentives Program](https://blog.golemproject.net/community-incentives-program/) - Participate in the community and get rewarded for it in GNT!
+- Community driven [Golem Telegram channel](https://t.me/GolemProject).
